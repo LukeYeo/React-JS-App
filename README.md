@@ -94,6 +94,9 @@ const API_URL = `https://www.omdbapi.com/?apikey=YOUR_API_KEY`;
 ## 📸 Screenshots (Optional)
 
 > Add screenshots here of the final UI, search bar, and results.
+![image](https://github.com/user-attachments/assets/23cc8229-aa71-4818-8deb-bee61dc731d9)
+![image](https://github.com/user-attachments/assets/68c5991c-2c05-4cb5-b73e-3a2b43f9c124)
+
 
 ---
 
@@ -113,5 +116,6 @@ const API_URL = `https://www.omdbapi.com/?apikey=YOUR_API_KEY`;
 ## 📝 Final Notes
 
 This project is **not deployed**, intended only for local experimentation and learning the React.js development flow. The project taught key fundamentals for building real-world React applications using API data, hooks, and reusable components.
+a file call node_module is missing due to the amount of files
 
 ---
